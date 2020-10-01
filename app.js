@@ -1,5 +1,5 @@
 // read data from samples.json dataset
-var filePath='../data/samples.json'
+var filePath='data/samples.json'
 d3.json(filePath).then(function(data){
     // console.log(data);
     dropDown(data); 
