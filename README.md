@@ -8,7 +8,7 @@ In this assignment, you will build an interactive dashboard to explore the Belly
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 #### Methods Used
-HTML/CSS/Bootstrap, JavaScript Library Plotly, Python and Flask
+HTML/Bootstrap, JavaScript Library Plotly, Python
 I used Plotyly to create charts exploring the provided data and apply the app to an interactive dashboard
 Webiste is deployed on GitHub Pages: https://sarahz22.github.io/Plotly-challenge/
 
